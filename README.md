@@ -391,10 +391,10 @@ docker exec -it yappify-kafka kafka-topics --list --bootstrap-server localhost:9
 
 ### Using Postman
 
-<img width="372" height="143" alt="postman_yappify" src="https://github.com/user-attachments/assets/e5d3a0fe-3991-49be-971d-7079e2a5b5a5" />
-<img width="361" height="447" alt="postman_yappify2" src="https://github.com/user-attachments/assets/c45e5bb8-975f-4736-99ef-d236c6d13671" />
-<img width="355" height="350" alt="postman_yappify1" src="https://github.com/user-attachments/assets/75ff0208-7060-4015-a720-4395ea2499e9" />
-<img width="359" height="279" alt="postman_yappify3" src="https://github.com/user-attachments/assets/3bd58a01-eeb9-471b-9ddc-47358aa3912f" />
+<img width="350" height="200" alt="postman_yappify" src="https://github.com/user-attachments/assets/e5d3a0fe-3991-49be-971d-7079e2a5b5a5" />
+<img width="350" height="450" alt="postman_yappify2" src="https://github.com/user-attachments/assets/c45e5bb8-975f-4736-99ef-d236c6d13671" />
+<img width="350" height="450" alt="postman_yappify1" src="https://github.com/user-attachments/assets/75ff0208-7060-4015-a720-4395ea2499e9" />
+<img width="350" height="450" alt="postman_yappify3" src="https://github.com/user-attachments/assets/3bd58a01-eeb9-471b-9ddc-47358aa3912f" />
 
 ---
 
