@@ -511,9 +511,7 @@ curl http://localhost:5050/actuator/health
 # Check Spring Boot metrics
 curl http://localhost:5050/actuator/metrics
 ```
-
 ---
-
 
 ## 🤝 Contributing
 
