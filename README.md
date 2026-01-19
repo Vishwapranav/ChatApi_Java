@@ -7,7 +7,6 @@ A production-ready, scalable real-time messaging platform built with Spring Boot
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-3.x-black.svg)](https://kafka.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -22,9 +21,6 @@ A production-ready, scalable real-time messaging platform built with Spring Boot
 - [Environment Variables](#-environment-variables)
 - [Docker Deployment](#-docker-deployment)
 - [Testing](#-testing)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -229,6 +225,11 @@ http://localhost:5050/api
 ### Interactive Documentation
 Access Swagger UI: **http://localhost:5050/swagger-ui.html**
 
+<img width="1889" height="567" alt="swagger_yappify" src="https://github.com/user-attachments/assets/95bc97f4-d511-4cb1-a66d-af67de9b849a" />
+<img width="1832" height="768" alt="swagger_yappify1" src="https://github.com/user-attachments/assets/04b31253-4e37-4571-b785-decd8a30c9b0" />
+<img width="1803" height="627" alt="swagger_yappify3" src="https://github.com/user-attachments/assets/7aa257f3-7019-4c8f-aca3-9f243d5751a7" />
+<img width="1809" height="491" alt="swagger_yappify2" src="https://github.com/user-attachments/assets/bb81c704-1f94-488b-8949-e297ddd5888c" />
+
 ### Authentication Endpoints
 
 | Method | Endpoint | Description | Auth Required |
@@ -390,6 +391,10 @@ docker exec -it yappify-kafka kafka-topics --list --bootstrap-server localhost:9
 
 ### Using Postman
 
+<img width="372" height="143" alt="postman_yappify" src="https://github.com/user-attachments/assets/e5d3a0fe-3991-49be-971d-7079e2a5b5a5" />
+<img width="361" height="447" alt="postman_yappify2" src="https://github.com/user-attachments/assets/c45e5bb8-975f-4736-99ef-d236c6d13671" />
+<img width="355" height="350" alt="postman_yappify1" src="https://github.com/user-attachments/assets/75ff0208-7060-4015-a720-4395ea2499e9" />
+<img width="359" height="279" alt="postman_yappify3" src="https://github.com/user-attachments/assets/3bd58a01-eeb9-471b-9ddc-47358aa3912f" />
 
 ---
 
@@ -480,11 +485,17 @@ docker-compose up -d
 ### Kafka UI
 Access: **http://localhost:8081**
 
+<img width="1919" height="535" alt="kafka_yappify1" src="https://github.com/user-attachments/assets/2d340af1-a02c-43e8-87e2-bd758808eaf5" />
+<img width="1919" height="599" alt="kafka_yappify" src="https://github.com/user-attachments/assets/1ff8c524-9044-49fb-bc61-bc1100b0ff22" />
+<img width="1919" height="921" alt="kafka_yappify6" src="https://github.com/user-attachments/assets/b77398d0-8f6a-470c-9239-a46351bfc26e" />
+
+
 Features:
 - View topics and messages
 - Monitor consumer lag
 - Check broker health
 - Inspect message content
+
 
 ### Application Health
 ```bash
@@ -496,6 +507,10 @@ curl http://localhost:5050/actuator/metrics
 ```
 
 ---
+<img width="1919" height="567" alt="kafka_yappify5" src="https://github.com/user-attachments/assets/63af7128-2cf5-4560-89c3-ad5b5ddf6cd4" />
+<img width="1919" height="1029" alt="kafka_yappify4" src="https://github.com/user-attachments/assets/ee452bba-7613-406d-8c0c-def86499590e" />
+<img width="1919" height="711" alt="kafka_yappify3" src="https://github.com/user-attachments/assets/f02777f8-afce-4441-aae1-b346838b0d0f" />
+<img width="1919" height="549" alt="kafka_yappify2" src="https://github.com/user-attachments/assets/09b0544b-048f-4bb4-9415-c3f9ba8ab8df" />
 
 ## 🤝 Contributing
 
@@ -522,8 +537,7 @@ Contributions are welcome! Please follow these steps:
 
 **Vishwapranav**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishwapranav/))
 - Email: vishwapranav2003@gmail.com
 
 ---
